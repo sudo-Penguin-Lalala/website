@@ -46,6 +46,10 @@ If you want to fork or adapt this for yourself:
 - Replace icons in [`images/icons/`](images/icons/)
 - Edit styles in [`css/style.css`](css/style.css) and [`css/brands.css`](css/brands.css)
 
+## Contact
+
+If you have questions or want to connect, visit [nnt25.net](https://nnt25.net).
+
 ## License
 
 This project is licensed under the MIT License.  
