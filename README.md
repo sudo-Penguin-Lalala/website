@@ -48,10 +48,11 @@ If you want to fork or adapt this for yourself:
 
 ## License
 
-MIT License.
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ### Credits
 
-This project is inspired by and based on [LittleLink](https://littlelink.io) by [Michael Arestad](https://github.com/aresta), licensed under the MIT
+This project is inspired by and based on [LittleLink](https://littlelink.io) by [Michael Arestad](https://github.com/aresta), licensed under the MIT License.
