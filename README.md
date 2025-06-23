@@ -59,4 +59,5 @@ See the [LICENSE](LICENSE) file for details.
 
 ### Credits
 
-This project is inspired by and based on [LittleLink](https://littlelink.io) by [Michael Arestad](https://github.com/aresta), licensed under the MIT License.
+This project is inspired by and based on [LittleLink](https://github.com/sethcottle/littlelink)  
+Originally by [Michael Arestad](https://github.com/aresta), now maintained by [Seth Cottle](https://github.com/sethcottle), licensed under the MIT License.
