@@ -48,8 +48,3 @@ If you want to fork or adapt this for yourself:
 ## Contact
 
 If you have questions or want to connect, visit [nnt25.net](https://nnt25.net).
-
-## License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for details.
