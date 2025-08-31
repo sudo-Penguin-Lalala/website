@@ -1,7 +1,6 @@
 # Thien Nguyen's Bio Website
 
-This is my personal bio and link page, built as a simple, responsive website to showcase my social profiles and contact information. Inspired by [LittleLink](https://littlelink.io), but customized for my own use.
-
+This is my personal bio and link page, built as a simple, responsive website to showcase my social profiles and contact information.
 ## About
 
 - **Author:** Thien Nguyen ([nnt25.net](https://nnt25.net))
@@ -54,10 +53,3 @@ If you have questions or want to connect, visit [nnt25.net](https://nnt25.net).
 
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for details.
-
----
-
-### Credits
-
-This project is inspired by and based on [LittleLink](https://github.com/sethcottle/littlelink)  
-Originally by [Michael Arestad](https://github.com/aresta), now maintained by [Seth Cottle](https://github.com/sethcottle), licensed under the MIT License.
